@@ -1,0 +1,1 @@
+<h1>Ini adalah halaman Makan.php</h1>
