@@ -1,0 +1,1 @@
+<h1>Ini adalah halaman Minum.php</h1>
